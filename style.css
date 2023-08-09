@@ -1,0 +1,91 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+body{
+    background-color: rgb(75, 88, 114);
+    display: flex;
+    justify-content: center;
+    margin-right: 355px;
+    margin-top: 140px;
+}
+
+.box-1 h2{
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.mauzinn{
+    margin-top: 0px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.sobremim{
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.box{
+    background-color: rgb(51, 51, 51);
+    position: absolute;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.box-1{
+    background-color: rgba(22, 22, 22, 0.945);
+    padding: 15px;
+    border-radius: 10px;
+    height: 405px;
+    width: 290px;
+}
+
+.paragrafo{
+    font-size: 13px;
+    text-decoration: underline;
+    color: rgb(204, 204, 204);
+}
+.paragrafoNormal{
+    font-size: 13px;
+    color: rgb(204, 204, 204);
+    font-weight: 300;
+    margin-top: 0px;
+}
+
+#img{
+    border-radius: 100px;
+    height: 80px;
+    width: 80px;
+    margin-bottom: 0px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.box-2{
+    background-color: rgba(22, 22, 22, 0.945);
+    width: 90px;
+    padding: 3px;
+    border-radius: 13px;
+    margin-bottom: 15px;
+    display: inline-block;
+    margin-left: 130px;
+    height: 26px;
+}
+
+.box-2 img:hover{
+    cursor: pointer;
+    background-color: rgba(165, 42, 42, 0.61);
+    border-radius: 5px;
+}
+
+.sobre{
+    font-size: small;
+    font-style: italic;
+    background-color: rgba(56, 56, 56, 0.76);
+    color: rgb(194, 194, 194);
+    width: 133px;
+}
+
